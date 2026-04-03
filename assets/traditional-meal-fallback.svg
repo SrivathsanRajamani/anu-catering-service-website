@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Traditional Vegetarian Feast</title>
+  <desc id="desc">வாழை இலையில் பாரம்பரிய தென்னிந்திய சைவ விருந்து - மாற்று படம்</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbf5e8"/>
+      <stop offset="100%" stop-color="#e8d3a8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect x="140" y="140" width="920" height="620" rx="28" fill="#dbe89f" stroke="#94a95b" stroke-width="8"/>
+  <circle cx="300" cy="300" r="62" fill="#f9e5b0"/>
+  <circle cx="460" cy="300" r="62" fill="#ffdb94"/>
+  <circle cx="620" cy="300" r="62" fill="#f2d8ad"/>
+  <circle cx="780" cy="300" r="62" fill="#f5ecbf"/>
+  <circle cx="940" cy="300" r="62" fill="#f4d296"/>
+  <circle cx="300" cy="470" r="62" fill="#f3b17e"/>
+  <circle cx="460" cy="470" r="62" fill="#d7c981"/>
+  <circle cx="620" cy="470" r="62" fill="#f7d39b"/>
+  <circle cx="780" cy="470" r="62" fill="#efd8ab"/>
+  <circle cx="940" cy="470" r="62" fill="#ffdca6"/>
+  <rect x="220" y="610" width="760" height="72" rx="18" fill="#fff7e5" stroke="#b98b2f" stroke-width="4"/>
+  <text x="600" y="655" text-anchor="middle" font-size="44" fill="#6d1f2b" font-family="'Noto Serif Tamil', serif">
+    பாரம்பரிய தென்னிந்திய சைவ விருந்து
+  </text>
+</svg>
